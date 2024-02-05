@@ -7,6 +7,7 @@ Control your mouse using your webcam
 3. Numpy<br>
 
 # Written by Aevam :
+1. Fork this git repo and open in pycharm or any other code editor.
 # Run these commands in your terminal
 1. pip install opencv-python<br>
 2. pip install PyAutoGUI<br>
