@@ -81,7 +81,7 @@ def main():
 
     while True:
         if args['webcam']:
-            ret, image = camera.read()
+            ret, image = cam.read()
 
             if not ret:
                 break
